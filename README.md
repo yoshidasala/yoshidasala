@@ -2,11 +2,11 @@
 
 I’m Sala Yoshida, a conscientious creative software engineer from Australia with Japanese roots  🌱 
 
-I like to explore the intersection between design and tech where functionality meets aesthetics 🔗�
+Currently exploring the intersection between design and tech where functionality meets aesthetics
 
-I craft thoughtful user experiences , validate designs and make them come to life with code 🕊
+I craft thoughtful user experiences, validate designs and make them come to life with code 🕊
 
-say hi [here](mailto:yoshidasala@gmail.com)
+Say hi [here](mailto:yoshidasala@gmail.com)
 
 ⚙️ Tools & Tech
 
