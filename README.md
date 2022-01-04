@@ -6,7 +6,7 @@
 
 🕊 I craft thoughtful user experiences, validate designs and make them come to life with code
 
-Say hi [here](mailto:yoshidasala@gmail.com)
+   feel free to say hi to me [here](mailto:yoshidasala@gmail.com)
 
 ⚙️ Tools & Tech
 
