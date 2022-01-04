@@ -22,7 +22,7 @@ say hi [here](mailto:yoshidasala@gmail.com)
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
-<img align="left" img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
+<img align="left" img src="https://img.icons8.com/ios-glyphs/30/ffffff/adobe-illustrator.png"/>
 
 
 
