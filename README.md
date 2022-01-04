@@ -20,9 +20,9 @@ say hi [here](mailto:yoshidasala@gmail.com)
 <img align="left" img src="https://img.icons8.com/fluency-systems-filled/48/ffffff/merge-git.png"/>
 <img align="left" img src="https://img.icons8.com/material-outlined/48/ffffff/github.png"/>
 <img align="left" img src="https://img.icons8.com/ios-filled/50/ffffff/postgreesql.png"/>
-<img align="left" img src="https://img.icons8.com/wired/64/ffffff/webpack.png"/>
-<img align="left" img src="https://img.icons8.com/ios/50/ffffff/adobe-illustrator--v1.png"/>
-<img align="left" img src="https://img.icons8.com/ios/50/ffffff/adobe-xd--v1.png"/>
+<img align="left" img src="https://img.icons8.com/wired/50/ffffff/webpack.png"/>
+<img align="left" img src="https://img.icons8.com/ios-filled/50/ffffff/adobe-illustrator.png"/>
+<img align="left" img src="https://img.icons8.com/ios-filled/50/ffffff/adobe-xd.png"/>
 
 
 
