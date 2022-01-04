@@ -18,12 +18,11 @@ say hi [here](mailto:yoshidasala@gmail.com)
 <img align="left" img src="https://img.icons8.com/ios/50/ffffff/redux.png"/>
 <img align="left" img src="https://img.icons8.com/windows/64/ffffff/nodejs.png"/>
 <img align="left" img src="https://img.icons8.com/fluency-systems-filled/48/ffffff/merge-git.png"/>
-<img align="left" img src="https://img.icons8.com/color-glass/48/000000/github.png"/>
-<img align="left" img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img align="left" img src="https://img.icons8.com/material-outlined/48/ffffff/github.png"/>
+<img align="left" img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
-<img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
-<img align="left" img src="https://img.icons8.com/ios-glyphs/30/ffffff/adobe-illustrator.png"/>
+<img align="left" img src="https://img.icons8.com/wired/64/ffffff/webpack.png"/>
+<img align="left" img src="https://img.icons8.com/ios/50/ffffff/adobe-illustrator--v1.png"/>
 
 
 
