@@ -6,8 +6,9 @@
  <p align="center">➰ Currently exploring the intersection between design and tech where functionality meets aesthetics </p>
 
  <p align="center">🕊 I craft thoughtful user experiences, validate designs and make them come to life with code</p>
+ 
 
- <p align="center">   feel free to say hi to me [here](mailto:yoshidasala@gmail.com)</p>
+ feel free to say hi to me [here](mailto:yoshidasala@gmail.com)
  
 
 
