@@ -1,7 +1,7 @@
 
- <p align="center"><a href="https://xxx.github.io/research/"> . sala yoshida . </a></p>
+ <p align="center"><a href="http://salayoshida.com" style={color:"white"}> . sala yoshida . </a></p>
 
- <p align="center">🌱 Hello I'm Sala, a conscientious creative software engineer from Australia with Japanese roots </p>
+ <p align="center">🌱 I'm Sala, a conscientious creative software engineer from Australia with Japanese roots </p>
 
  <p align="center">➰ Currently exploring the intersection between design and tech where functionality meets aesthetics </p>
 
