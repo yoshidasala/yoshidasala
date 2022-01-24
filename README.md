@@ -1,13 +1,13 @@
 
  <p align="center"><a href="https://xxx.github.io/research/"> . sala yoshida . </a></p>
 
-🌱 Hello I'm Sala, a conscientious creative software engineer from Australia with Japanese roots 
+ <p align="center">🌱 Hello I'm Sala, a conscientious creative software engineer from Australia with Japanese roots </p>
 
-➰ Currently exploring the intersection between design and tech where functionality meets aesthetics 
+ <p align="center">➰ Currently exploring the intersection between design and tech where functionality meets aesthetics </p>
 
-🕊 I craft thoughtful user experiences, validate designs and make them come to life with code
+ <p align="center">🕊 I craft thoughtful user experiences, validate designs and make them come to life with code</p>
 
-   feel free to say hi to me [here](mailto:yoshidasala@gmail.com)
+ <p align="center">   feel free to say hi to me [here](mailto:yoshidasala@gmail.com)</p>
  
 
 
