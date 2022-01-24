@@ -7,7 +7,7 @@
 
  <p align="center">🕊 I craft thoughtful user experiences, validate designs and make them come to life with code</p>
  
-  align="center"> feel free to say hi to me [here](mailto:yoshidasala@gmail.com)
+
  
 
 
