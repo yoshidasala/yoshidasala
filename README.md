@@ -1,5 +1,5 @@
 
-  <a href="https://xxx.github.io/research/"> . sala yoshida . </a>
+ <h3><a href="https://xxx.github.io/research/"> . sala yoshida . </a></h3>
 
 🌱 Hello I'm Sala, a conscientious creative software engineer from Australia with Japanese roots 
 
