@@ -8,9 +8,6 @@
  <p align="center">🕊 I craft thoughtful user experiences, validate designs and make them come to life with code</p>
  
 
- feel free to say hi to me [here](mailto:yoshidasala@gmail.com)
- 
-
 
 ⚙️ Tools & Tech
 
@@ -25,7 +22,7 @@
 <img align="left" img src="https://img.icons8.com/ios-filled/50/ffffff/postgreesql.png"/>
 <img align="left" img src="https://img.icons8.com/wired/50/ffffff/webpack.png"/>
 
-
+ feel free to say hi to me [here](mailto:yoshidasala@gmail.com)
 
 
 
