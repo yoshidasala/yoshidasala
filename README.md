@@ -8,15 +8,14 @@
  <p align="center"> I craft thoughtful user experiences, validate designs and make them come to life with code 🕊</p>
   <div align="center">
  
-<img align="center" img src="https://img.icons8.com/ios/50/000000/javascript-logo.png"/>
+<img align="center" img src="https://img.icons8.com/plumpy/24/000000/javascript.png"/>
 <img align="center" img src="https://img.icons8.com/ios/50/ffffff/html-5.png"/>
 <img align="center" img src="https://img.icons8.com/ios/50/ffffff/css3.png"/>
 <img align="center" img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
-<img align="center" img src="https://img.icons8.com/ios/50/ffffff/redux.png"/>
-<img align="center" img src="https://img.icons8.com/windows/64/ffffff/nodejs.png"/>
-<img align="center" img src="https://img.icons8.com/fluency-systems-filled/48/ffffff/merge-git.png"/>
-<img align="center" img src="https://img.icons8.com/ios-filled/50/ffffff/postgreesql.png"/>
-<img align="center" img src="https://img.icons8.com/wired/50/ffffff/webpack.png"/>
+<img align="center" img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-shadow-tal-revivo.png"/>
+<img align="center" img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-color-tal-revivo.png"/>
+<img align="center" img src="https://img.icons8.com/color/24/000000/postgreesql.png"/>
+
 </div>
 
  
