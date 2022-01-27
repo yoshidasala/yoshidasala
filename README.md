@@ -9,8 +9,8 @@
   <div align="center">
  
 <img align="center" img src="https://img.icons8.com/plumpy/24/000000/javascript.png"/>
-<img align="center" img src="https://img.icons8.com/ios/50/ffffff/html-5.png"/>
-<img align="center" img src="https://img.icons8.com/ios/50/ffffff/css3.png"/>
+<img align="center" img src="https://img.icons8.com/office/24/000000/html.png"/>
+<img align="center" img src="https://img.icons8.com/offices/24/000000/css.png"/>
 <img align="center" img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
 <img align="center" img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-shadow-tal-revivo.png"/>
 <img align="center" img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-color-tal-revivo.png"/>
