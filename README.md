@@ -9,7 +9,7 @@
   <div align="center">
  
 <img align="center" img src="https://img.icons8.com/ios/50/000000/javascript-logo.png"/>
- <img align="center" img src="https://img.icons8.com/ios/50/ffffff/html-5.png"/>
+<img align="center" img src="https://img.icons8.com/ios/50/ffffff/html-5.png"/>
 <img align="center" img src="https://img.icons8.com/ios/50/ffffff/css3.png"/>
 <img align="center" img src="https://img.icons8.com/ios/50/ffffff/react-native--v1.png"/>
 <img align="center" img src="https://img.icons8.com/ios/50/ffffff/redux.png"/>
