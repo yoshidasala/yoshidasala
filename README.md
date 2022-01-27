@@ -8,7 +8,7 @@
  <p align="center"> I craft thoughtful user experiences, validate designs and make them come to life with code 🕊</p>
   <div align="center">
  
-<img align="center" img src="https://img.icons8.com/plumpy/24/000000/javascript.png"/>
+<img align="center" img src="https://img.icons8.com/ios-glyphs/24/000000/javascript.png"/>
 <img align="center" img src="https://img.icons8.com/office/24/000000/html.png"/>
 <img align="center" img src="https://img.icons8.com/offices/24/000000/css.png"/>
 <img align="center" img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
