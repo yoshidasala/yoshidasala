@@ -1,9 +1,9 @@
 
  <p align="center"><a href="http://salayoshida.com" style={color:"white"}> . sala yoshida . </a></p>
 
- <p align="center">I'm Sala, a conscientious creative software engineer from Australia with Japanese roots 🌱 </p>
+ <p align="center"> I'm Sala, a conscientious creative software engineer from Australia with Japanese roots 🌱 </p>
 
- <p align="center">I like exploring the intersection between design and tech where functionality meets aesthetics ➰ </p>
+ <p align="center"> I like exploring the intersection between design and tech where functionality meets aesthetics ➰ </p>
 
  <p align="center"> I craft thoughtful user experiences, validate designs and make them come to life with code 🕊</p>
   <div align="center">
